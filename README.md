@@ -23,3 +23,5 @@ so be sure to provide correct username and email in signature dialog that pops u
 
 <h3> Usage example: </h3>
 <video src ="https://user-images.githubusercontent.com/129186794/233439751-adc5dc23-02bd-4dd4-b37d-5e2f601f91fd.mp4"> </video>
+
+<p>P.S. push is done outside the program so i dont have to deal with auth </p>
